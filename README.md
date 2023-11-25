@@ -4,3 +4,5 @@ This is a template repository for the Unix course final assignment. You should u
 Put your shell code in `workflow.sh` and the R code to visualise results in `data-analysis.R`.
 
 Here, please, describe the individual steps in your pipeline and the actual results...
+
+![Your Graph](results/your-graph.jpeg)
