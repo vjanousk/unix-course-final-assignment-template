@@ -5,4 +5,4 @@ Put your shell code in `workflow.sh` and the R code to visualise results in `dat
 
 Here, please, describe the individual steps in your pipeline and the actual results...
 
-
+![Your Graph](results/your-graph.jpeg)
